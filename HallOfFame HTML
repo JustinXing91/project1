@@ -1,0 +1,33 @@
+<html>
+
+<head>
+<link rel="stylesheet" href="stylesheet.css">
+<title>My L.A. Galaxy Fan Site</title>
+</head>
+
+<body>
+<div class="topnav">
+	<a href="index.html">Home</a>
+	<a href="">Pictures</a>
+	<a href="">Memorable Moments</a>
+	<a href="hallOfFame.html">My Hall of Fame</a>
+</div>
+
+<div class="header">
+	<h1>My Hall Of Fame</h1>
+</div>
+
+<ol>
+	<li>Landon Donovan</li>
+	<li>David Beckham</li>
+	<li>Robin Fraser</li>
+	<li>Kevin Hartman</li>
+	<li>Carlos Ruiz</li>
+	<li>Zlatan Ibrahimovic (LAFC Killer)</li>
+	<li>Robbie Keane</li>
+	<li>Greg Vanney</li>
+</ol>
+
+
+
+</html>
